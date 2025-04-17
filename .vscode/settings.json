@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 28957,
+            "driver": "PostgreSQL",
+            "name": "Diwali_Sales",
+            "database": "Diwali_Sales",
+            "username": "postgres",
+            "password": "Eleven@152"
+        }
+    ]
+}

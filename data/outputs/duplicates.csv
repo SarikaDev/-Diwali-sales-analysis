@@ -1,0 +1,9 @@
+user_id,cust_name,product_id,gender,age_group,age,marital_status,state,zone,occupation,product_category,orders,amount
+1001883,Praneet,P00029842,Male,51-55,54,Married,Uttar Pradesh,Central,Hospitality,Auto,1,23568.0
+1004725,Jackson,P00150842,Female,36-45,37,Married,Maharashtra,Western,Hospitality,Electronics & Gadgets,4,9859.0
+1003208,Bowman,P00171642,Female,26-35,31,Single,Bihar,Eastern,Agriculture,Electronics & Gadgets,4,8088.0
+1001260,Dheeraj,P00344042,Male,26-35,28,Single,Maharashtra,Western,IT Sector,Electronics & Gadgets,4,8015.0
+1001325,Reese,P00111742,Female,26-35,27,Married,Gujarat,Western,Construction,Electronics & Gadgets,3,7923.0
+1000083,Gute,P00242842,Male,26-35,35,Single,Uttar Pradesh,Central,Hospitality,Clothing & Apparel,3,5345.0
+1001476,Anudeep,P00036842,Male,18-25,25,Single,Maharashtra,Western,IT Sector,Clothing & Apparel,4,5202.0
+1004404,Rittenbach,P00150142,Female,26-35,28,Married,Haryana,Northern,Aviation,Electronics & Gadgets,3,2304.0
