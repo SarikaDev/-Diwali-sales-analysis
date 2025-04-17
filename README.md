@@ -57,5 +57,5 @@ This analysis enables e-commerce businesses to:
 
 ---
 
-📂 [Download Power BI File](./assets/diwali_sales_BI.pbix)  
-📂 [Download PDF Report](./assets/diwali_sales_BI.pdf)
+📂 [Download Power BI File](./data/outputs/diwalI_sales_BI.pbix)  
+📂 [Download PDF Report](./data/outputs/diwali_sales_BI.pdf)
