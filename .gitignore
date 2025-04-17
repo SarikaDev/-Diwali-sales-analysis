@@ -2,7 +2,3 @@
 .env
 venv/
 
-# Data (if sensitive)
-data/raw/
-data/processed/*.csv
-!data/processed/cleaned_data.csv  # Keep only the final cleaned file
